@@ -1,12 +1,12 @@
 import React from 'react'
 import { NavigationContainer } from "@react-navigation/native";
-import MatchesStack from './matchesStack';
+import Tabs from './tabs';
 
 
 const MatchesNavigator = () => {
   return (
     <NavigationContainer>
-        <MatchesStack />
+        <Tabs />
     </NavigationContainer>
   )
 }
