@@ -3,9 +3,9 @@ import { Ionicons } from '@expo/vector-icons'
 import { StyleSheet, Text, View, TouchableOpacity, Image } from 'react-native'
 import { colors } from '../../constants/colors'
 import { useDispatch } from 'react-redux'
-import { selectMatch } from '../../store/actions'
+import { selectMatch,removeMatch } from '../../store/actions'
 
-export const Match = ({ item }) => {
+export const Match = ({ item, onSelectFav }) => {
 	const dispatch = useDispatch()
 	return (
 		<TouchableOpacity>
@@ -25,7 +25,7 @@ export const Match = ({ item }) => {
 						name={'heart'}
 						size={22}
 						color={colors.secondary}
-						onPress={() => dispatch(selectMatch(item.fixture.id))}
+						onPress={() => dispatch(onSelectFav(item.fixture.id))}
 					/>
 				</View>
 			</View>
