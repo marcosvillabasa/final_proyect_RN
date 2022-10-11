@@ -1,184 +1,46 @@
 [
 	{
 		"fixture": {
-			"id": 836801,
-			"referee": null,
+			"id": 823063,
+			"referee": "Bismark Elias Santiago Pitalua, Colombia",
 			"timezone": "UTC",
-			"date": "2022-10-10T23:00:00+00:00",
-			"timestamp": 1665442800,
+			"date": "2022-10-11T00:45:00+00:00",
+			"timestamp": 1665449100,
 			"periods": {
-				"first": 1665442800,
+				"first": 1665449100,
 				"second": null
 			},
 			"venue": {
-				"id": 330,
-				"name": "Estadio Municipal Joaquín Muñoz García",
-				"city": "Santa Cruz"
+				"id": 367,
+				"name": "Estadio Daniel Villa Zapata",
+				"city": "Barrancabermeja"
 			},
 			"status": {
 				"long": "First Half",
 				"short": "1H",
-				"elapsed": 9
+				"elapsed": 11
 			}
 		},
 		"league": {
-			"id": 266,
-			"name": "Primera B",
-			"country": "Chile",
-			"logo": "https://media.api-sports.io/football/leagues/266.png",
-			"flag": "https://media.api-sports.io/flags/cl.svg",
-			"season": 2022,
-			"round": "Regular Season - 31"
-		},
-		"teams": {
-			"home": {
-				"id": 2346,
-				"name": "Deportes Santa Cruz",
-				"logo": "https://media.api-sports.io/football/teams/2346.png",
-				"winner": null
-			},
-			"away": {
-				"id": 2340,
-				"name": "Union San Felipe",
-				"logo": "https://media.api-sports.io/football/teams/2340.png",
-				"winner": null
-			}
-		},
-		"goals": {
-			"home": 0,
-			"away": 0
-		},
-		"score": {
-			"halftime": {
-				"home": 0,
-				"away": 0
-			},
-			"fulltime": {
-				"home": null,
-				"away": null
-			},
-			"extratime": {
-				"home": null,
-				"away": null
-			},
-			"penalty": {
-				"home": null,
-				"away": null
-			}
-		},
-		"events": []
-	},
-	{
-		"fixture": {
-			"id": 838295,
-			"referee": "Jose Mendonca da Silva Junior, Brazil",
-			"timezone": "UTC",
-			"date": "2022-10-10T23:00:00+00:00",
-			"timestamp": 1665442800,
-			"periods": {
-				"first": 1665442800,
-				"second": null
-			},
-			"venue": {
-				"id": 10494,
-				"name": "Estádio Urbano Caldeira",
-				"city": "Santos, São Paulo"
-			},
-			"status": {
-				"long": "First Half",
-				"short": "1H",
-				"elapsed": 10
-			}
-		},
-		"league": {
-			"id": 71,
-			"name": "Serie A",
-			"country": "Brazil",
-			"logo": "https://media.api-sports.io/football/leagues/71.png",
-			"flag": "https://media.api-sports.io/flags/br.svg",
-			"season": 2022,
-			"round": "Regular Season - 31"
-		},
-		"teams": {
-			"home": {
-				"id": 128,
-				"name": "Santos",
-				"logo": "https://media.api-sports.io/football/teams/128.png",
-				"winner": null
-			},
-			"away": {
-				"id": 152,
-				"name": "Juventude",
-				"logo": "https://media.api-sports.io/football/teams/152.png",
-				"winner": null
-			}
-		},
-		"goals": {
-			"home": 0,
-			"away": 0
-		},
-		"score": {
-			"halftime": {
-				"home": 0,
-				"away": 0
-			},
-			"fulltime": {
-				"home": null,
-				"away": null
-			},
-			"extratime": {
-				"home": null,
-				"away": null
-			},
-			"penalty": {
-				"home": null,
-				"away": null
-			}
-		},
-		"events": []
-	},
-	{
-		"fixture": {
-			"id": 887681,
-			"referee": null,
-			"timezone": "UTC",
-			"date": "2022-10-10T22:30:00+00:00",
-			"timestamp": 1665441000,
-			"periods": {
-				"first": 1665441000,
-				"second": null
-			},
-			"venue": {
-				"id": 1220,
-				"name": "Estadio Arsenio Erico",
-				"city": "Asunción"
-			},
-			"status": {
-				"long": "First Half",
-				"short": "1H",
-				"elapsed": 38
-			}
-		},
-		"league": {
-			"id": 252,
-			"name": "Division Profesional - Clausura",
-			"country": "Paraguay",
-			"logo": "https://media.api-sports.io/football/leagues/252.png",
-			"flag": "https://media.api-sports.io/flags/py.svg",
+			"id": 239,
+			"name": "Primera A",
+			"country": "Colombia",
+			"logo": "https://media.api-sports.io/football/leagues/239.png",
+			"flag": "https://media.api-sports.io/flags/co.svg",
 			"season": 2022,
 			"round": "Clausura - 16"
 		},
 		"teams": {
 			"home": {
-				"id": 1175,
-				"name": "Nacional Asuncion",
-				"logo": "https://media.api-sports.io/football/teams/1175.png",
+				"id": 1141,
+				"name": "Alianza Petrolera",
+				"logo": "https://media.api-sports.io/football/teams/1141.png",
 				"winner": null
 			},
 			"away": {
-				"id": 1176,
-				"name": "Cerro Porteno",
-				"logo": "https://media.api-sports.io/football/teams/1176.png",
+				"id": 1139,
+				"name": "Santa Fe",
+				"logo": "https://media.api-sports.io/football/teams/1139.png",
 				"winner": null
 			}
 		},
@@ -207,17 +69,17 @@
 		"events": [
 			{
 				"time": {
-					"elapsed": 25,
+					"elapsed": 2,
 					"extra": null
 				},
 				"team": {
-					"id": 1175,
-					"name": "Nacional Asuncion",
-					"logo": "https://media.api-sports.io/football/teams/1175.png"
+					"id": 1139,
+					"name": "Santa Fe",
+					"logo": "https://media.api-sports.io/football/teams/1139.png"
 				},
 				"player": {
-					"id": 70705,
-					"name": "R. D. Rios"
+					"id": 13500,
+					"name": "D. Mosquera"
 				},
 				"assist": {
 					"id": null,
@@ -231,6 +93,75 @@
 	},
 	{
 		"fixture": {
+			"id": 863492,
+			"referee": "Jorge Balino, Argentina",
+			"timezone": "UTC",
+			"date": "2022-10-11T00:30:00+00:00",
+			"timestamp": 1665448200,
+			"periods": {
+				"first": 1665448200,
+				"second": null
+			},
+			"venue": {
+				"id": 2997,
+				"name": "Estadio Alfredo Terrera",
+				"city": "Santiago del Estero, Provincia de Santiago del Est"
+			},
+			"status": {
+				"long": "First Half",
+				"short": "1H",
+				"elapsed": 23
+			}
+		},
+		"league": {
+			"id": 128,
+			"name": "Liga Profesional Argentina",
+			"country": "Argentina",
+			"logo": "https://media.api-sports.io/football/leagues/128.png",
+			"flag": "https://media.api-sports.io/flags/ar.svg",
+			"season": 2022,
+			"round": "2nd Phase - 24"
+		},
+		"teams": {
+			"home": {
+				"id": 1065,
+				"name": "Central Cordoba de Santiago",
+				"logo": "https://media.api-sports.io/football/teams/1065.png",
+				"winner": null
+			},
+			"away": {
+				"id": 457,
+				"name": "Newells Old Boys",
+				"logo": "https://media.api-sports.io/football/teams/457.png",
+				"winner": null
+			}
+		},
+		"goals": {
+			"home": 0,
+			"away": 0
+		},
+		"score": {
+			"halftime": {
+				"home": 0,
+				"away": 0
+			},
+			"fulltime": {
+				"home": null,
+				"away": null
+			},
+			"extratime": {
+				"home": null,
+				"away": null
+			},
+			"penalty": {
+				"home": null,
+				"away": null
+			}
+		},
+		"events": []
+	},
+	{
+		"fixture": {
 			"id": 963537,
 			"referee": null,
 			"timezone": "UTC",
@@ -238,7 +169,7 @@
 			"timestamp": 1665442800,
 			"periods": {
 				"first": 1665442800,
-				"second": null
+				"second": 1665446400
 			},
 			"venue": {
 				"id": null,
@@ -246,9 +177,9 @@
 				"city": "Belém, Pará"
 			},
 			"status": {
-				"long": "First Half",
-				"short": "1H",
-				"elapsed": 12
+				"long": "Second Half",
+				"short": "2H",
+				"elapsed": 71
 			}
 		},
 		"league": {
@@ -265,23 +196,23 @@
 				"id": 20390,
 				"name": "Remo U20",
 				"logo": "https://media.api-sports.io/football/teams/20390.png",
-				"winner": true
+				"winner": null
 			},
 			"away": {
 				"id": 16474,
 				"name": "Real Ariquemes U20",
 				"logo": "https://media.api-sports.io/football/teams/16474.png",
-				"winner": false
+				"winner": null
 			}
 		},
 		"goals": {
-			"home": 1,
-			"away": 0
+			"home": 2,
+			"away": 2
 		},
 		"score": {
 			"halftime": {
-				"home": 1,
-				"away": 0
+				"home": 2,
+				"away": 1
 			},
 			"fulltime": {
 				"home": null,
@@ -318,57 +249,145 @@
 				"type": "Goal",
 				"detail": "Normal Goal",
 				"comments": null
+			},
+			{
+				"time": {
+					"elapsed": 18,
+					"extra": null
+				},
+				"team": {
+					"id": 16474,
+					"name": "Real Ariquemes U20",
+					"logo": "https://media.api-sports.io/football/teams/16474.png"
+				},
+				"player": {
+					"id": null,
+					"name": null
+				},
+				"assist": {
+					"id": null,
+					"name": null
+				},
+				"type": "Goal",
+				"detail": "Normal Goal",
+				"comments": null
+			},
+			{
+				"time": {
+					"elapsed": 40,
+					"extra": null
+				},
+				"team": {
+					"id": 20390,
+					"name": "Remo U20",
+					"logo": "https://media.api-sports.io/football/teams/20390.png"
+				},
+				"player": {
+					"id": null,
+					"name": null
+				},
+				"assist": {
+					"id": null,
+					"name": null
+				},
+				"type": "Goal",
+				"detail": "Normal Goal",
+				"comments": null
+			},
+			{
+				"time": {
+					"elapsed": 54,
+					"extra": null
+				},
+				"team": {
+					"id": 16474,
+					"name": "Real Ariquemes U20",
+					"logo": "https://media.api-sports.io/football/teams/16474.png"
+				},
+				"player": {
+					"id": null,
+					"name": null
+				},
+				"assist": {
+					"id": null,
+					"name": null
+				},
+				"type": "Goal",
+				"detail": "Normal Goal",
+				"comments": null
+			},
+			{
+				"time": {
+					"elapsed": 62,
+					"extra": null
+				},
+				"team": {
+					"id": 16474,
+					"name": "Real Ariquemes U20",
+					"logo": "https://media.api-sports.io/football/teams/16474.png"
+				},
+				"player": {
+					"id": null,
+					"name": null
+				},
+				"assist": {
+					"id": null,
+					"name": null
+				},
+				"type": "Card",
+				"detail": "Red Card",
+				"comments": null
 			}
 		]
 	},
 	{
 		"fixture": {
-			"id": 838298,
-			"referee": "Bruno Arleu de Araujo, Brazil",
+			"id": 827879,
+			"referee": "Franklin Andres Congo Viteri, Ecuador",
 			"timezone": "UTC",
-			"date": "2022-10-10T21:30:00+00:00",
-			"timestamp": 1665437400,
+			"date": "2022-10-11T00:00:00+00:00",
+			"timestamp": 1665446400,
 			"periods": {
-				"first": 1665437400,
-				"second": 1665441000
+				"first": 1665446400,
+				"second": null
 			},
 			"venue": {
-				"id": 211,
-				"name": "Estádio Antônio Accioly",
-				"city": "Goiânia, Goiás"
+				"id": 18580,
+				"name": "Estadio Banco Guayaquil",
+				"city": "Sangolquí"
 			},
 			"status": {
-				"long": "Second Half",
-				"short": "2H",
-				"elapsed": 84
+				"long": "Halftime",
+				"short": "HT",
+				"elapsed": 45
 			}
 		},
 		"league": {
-			"id": 71,
-			"name": "Serie A",
-			"country": "Brazil",
-			"logo": "https://media.api-sports.io/football/leagues/71.png",
-			"flag": "https://media.api-sports.io/flags/br.svg",
+			"id": 242,
+			"name": "Liga Pro",
+			"country": "Ecuador",
+			"logo": "https://media.api-sports.io/football/leagues/242.png",
+			"flag": "https://media.api-sports.io/flags/ec.svg",
 			"season": 2022,
-			"round": "Regular Season - 31"
+			"round": "2nd Round - 13"
 		},
 		"teams": {
 			"home": {
-				"id": 144,
-				"name": "Atletico Goianiense",
-				"logo": "https://media.api-sports.io/football/teams/144.png",
+				"id": 1153,
+				"name": "Independiente del Valle",
+				"logo": "https://media.api-sports.io/football/teams/1153.png",
 				"winner": null
 			},
 			"away": {
-				"id": 121,
-				"name": "Palmeiras",
-				"logo": "https://media.api-sports.io/football/teams/121.png",
+				"id": 1151,
+				"name": "Tecnico Universitario",
+				"logo": "https://media.api-sports.io/football/teams/1151.png",
 				"winner": null
 			}
 		},
 		"goals": {
-			"home": 1,
-			"away": 1
+			"home": 0,
+			"away": 0
 		},
 		"score": {
 			"halftime": {
@@ -391,17 +410,17 @@
 		"events": [
 			{
 				"time": {
-					"elapsed": 16,
+					"elapsed": 13,
 					"extra": null
 				},
 				"team": {
-					"id": 144,
-					"name": "Atletico Goianiense",
-					"logo": "https://media.api-sports.io/football/teams/144.png"
+					"id": 1153,
+					"name": "Independiente del Valle",
+					"logo": "https://media.api-sports.io/football/teams/1153.png"
 				},
 				"player": {
-					"id": 64032,
-					"name": "Edson Fernando"
+					"id": 5196,
+					"name": "M. Carabajal"
 				},
 				"assist": {
 					"id": null,
@@ -409,21 +428,21 @@
 				},
 				"type": "Card",
 				"detail": "Yellow Card",
-				"comments": "Tripping"
+				"comments": null
 			},
 			{
 				"time": {
-					"elapsed": 28,
+					"elapsed": 35,
 					"extra": null
 				},
 				"team": {
-					"id": 144,
-					"name": "Atletico Goianiense",
-					"logo": "https://media.api-sports.io/football/teams/144.png"
+					"id": 1151,
+					"name": "Tecnico Universitario",
+					"logo": "https://media.api-sports.io/football/teams/1151.png"
 				},
 				"player": {
-					"id": 10568,
-					"name": "Willian Maranhao"
+					"id": 13690,
+					"name": "J. Blanco"
 				},
 				"assist": {
 					"id": null,
@@ -431,21 +450,21 @@
 				},
 				"type": "Card",
 				"detail": "Yellow Card",
-				"comments": "Tripping"
+				"comments": null
 			},
 			{
 				"time": {
-					"elapsed": 34,
+					"elapsed": 39,
 					"extra": null
 				},
 				"team": {
-					"id": 121,
-					"name": "Palmeiras",
-					"logo": "https://media.api-sports.io/football/teams/121.png"
+					"id": 1151,
+					"name": "Tecnico Universitario",
+					"logo": "https://media.api-sports.io/football/teams/1151.png"
 				},
 				"player": {
-					"id": 10143,
-					"name": "Rony"
+					"id": 16383,
+					"name": "E. Carcelen"
 				},
 				"assist": {
 					"id": null,
@@ -453,109 +472,21 @@
 				},
 				"type": "Card",
 				"detail": "Yellow Card",
-				"comments": "Tripping"
-			},
-			{
-				"time": {
-					"elapsed": 49,
-					"extra": null
-				},
-				"team": {
-					"id": 121,
-					"name": "Palmeiras",
-					"logo": "https://media.api-sports.io/football/teams/121.png"
-				},
-				"player": {
-					"id": 10083,
-					"name": "Murilo Cerqueira"
-				},
-				"assist": {
-					"id": 9926,
-					"name": "Gustavo Scarpa"
-				},
-				"type": "Goal",
-				"detail": "Normal Goal",
 				"comments": null
 			},
 			{
 				"time": {
-					"elapsed": 60,
-					"extra": null
+					"elapsed": 45,
+					"extra": 3
 				},
 				"team": {
-					"id": 144,
-					"name": "Atletico Goianiense",
-					"logo": "https://media.api-sports.io/football/teams/144.png"
+					"id": 1153,
+					"name": "Independiente del Valle",
+					"logo": "https://media.api-sports.io/football/teams/1153.png"
 				},
 				"player": {
-					"id": 9325,
-					"name": "Jorginho"
-				},
-				"assist": {
-					"id": 64032,
-					"name": "Edson Fernando"
-				},
-				"type": "subst",
-				"detail": "Substitution 1",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 60,
-					"extra": null
-				},
-				"team": {
-					"id": 144,
-					"name": "Atletico Goianiense",
-					"logo": "https://media.api-sports.io/football/teams/144.png"
-				},
-				"player": {
-					"id": 10025,
-					"name": "Shaylon"
-				},
-				"assist": {
-					"id": 126935,
-					"name": "Arthur Henrique"
-				},
-				"type": "subst",
-				"detail": "Substitution 2",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 65,
-					"extra": null
-				},
-				"team": {
-					"id": 144,
-					"name": "Atletico Goianiense",
-					"logo": "https://media.api-sports.io/football/teams/144.png"
-				},
-				"player": {
-					"id": 10025,
-					"name": "Shaylon"
-				},
-				"assist": {
-					"id": null,
-					"name": null
-				},
-				"type": "Goal",
-				"detail": "Normal Goal",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 68,
-					"extra": null
-				},
-				"team": {
-					"id": 144,
-					"name": "Atletico Goianiense",
-					"logo": "https://media.api-sports.io/football/teams/144.png"
-				},
-				"player": {
-					"id": 9325,
-					"name": "Jorginho"
+					"id": 16359,
+					"name": "R. Schunke"
 				},
 				"assist": {
 					"id": null,
@@ -563,260 +494,154 @@
 				},
 				"type": "Card",
 				"detail": "Yellow Card",
-				"comments": "Roughing"
-			},
-			{
-				"time": {
-					"elapsed": 70,
-					"extra": null
-				},
-				"team": {
-					"id": 121,
-					"name": "Palmeiras",
-					"logo": "https://media.api-sports.io/football/teams/121.png"
-				},
-				"player": {
-					"id": 9932,
-					"name": "Ze Rafael"
-				},
-				"assist": {
-					"id": null,
-					"name": null
-				},
-				"type": "Card",
-				"detail": "Yellow Card",
-				"comments": "Unsportsmanlike conduct"
-			},
-			{
-				"time": {
-					"elapsed": 72,
-					"extra": null
-				},
-				"team": {
-					"id": 144,
-					"name": "Atletico Goianiense",
-					"logo": "https://media.api-sports.io/football/teams/144.png"
-				},
-				"player": {
-					"id": 10025,
-					"name": "Shaylon"
-				},
-				"assist": {
-					"id": null,
-					"name": null
-				},
-				"type": "Card",
-				"detail": "Yellow Card",
-				"comments": "Tripping"
-			},
-			{
-				"time": {
-					"elapsed": 74,
-					"extra": null
-				},
-				"team": {
-					"id": 144,
-					"name": "Atletico Goianiense",
-					"logo": "https://media.api-sports.io/football/teams/144.png"
-				},
-				"player": {
-					"id": 159774,
-					"name": "Leo Pereira"
-				},
-				"assist": {
-					"id": 10073,
-					"name": "Luiz Fernando"
-				},
-				"type": "subst",
-				"detail": "Substitution 3",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 77,
-					"extra": null
-				},
-				"team": {
-					"id": 121,
-					"name": "Palmeiras",
-					"logo": "https://media.api-sports.io/football/teams/121.png"
-				},
-				"player": {
-					"id": 70314,
-					"name": "Wesley"
-				},
-				"assist": {
-					"id": 9939,
-					"name": "Dudu"
-				},
-				"type": "subst",
-				"detail": "Substitution 1",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 77,
-					"extra": null
-				},
-				"team": {
-					"id": 121,
-					"name": "Palmeiras",
-					"logo": "https://media.api-sports.io/football/teams/121.png"
-				},
-				"player": {
-					"id": 53966,
-					"name": "Breno Lopes"
-				},
-				"assist": {
-					"id": 9917,
-					"name": "Mayke"
-				},
-				"type": "subst",
-				"detail": "Substitution 2",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 82,
-					"extra": null
-				},
-				"team": {
-					"id": 121,
-					"name": "Palmeiras",
-					"logo": "https://media.api-sports.io/football/teams/121.png"
-				},
-				"player": {
-					"id": 6327,
-					"name": "M. Merentiel"
-				},
-				"assist": {
-					"id": 10143,
-					"name": "Rony"
-				},
-				"type": "subst",
-				"detail": "Substitution 3",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 83,
-					"extra": null
-				},
-				"team": {
-					"id": 144,
-					"name": "Atletico Goianiense",
-					"logo": "https://media.api-sports.io/football/teams/144.png"
-				},
-				"player": {
-					"id": 10380,
-					"name": "W. Klaus"
-				},
-				"assist": {
-					"id": 10568,
-					"name": "Willian Maranhao"
-				},
-				"type": "subst",
-				"detail": "Substitution 4",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 83,
-					"extra": null
-				},
-				"team": {
-					"id": 144,
-					"name": "Atletico Goianiense",
-					"logo": "https://media.api-sports.io/football/teams/144.png"
-				},
-				"player": {
-					"id": 54699,
-					"name": "Rhaldney"
-				},
-				"assist": {
-					"id": 70568,
-					"name": "D. Churin"
-				},
-				"type": "subst",
-				"detail": "Substitution 5",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 83,
-					"extra": null
-				},
-				"team": {
-					"id": 121,
-					"name": "Palmeiras",
-					"logo": "https://media.api-sports.io/football/teams/121.png"
-				},
-				"player": {
-					"id": 68057,
-					"name": "Rafael Navarro"
-				},
-				"assist": {
-					"id": 9926,
-					"name": "Gustavo Scarpa"
-				},
-				"type": "subst",
-				"detail": "Substitution 4",
 				"comments": null
 			}
 		]
 	},
 	{
 		"fixture": {
-			"id": 851760,
+			"id": 850777,
 			"referee": null,
 			"timezone": "UTC",
-			"date": "2022-10-10T22:00:00+00:00",
-			"timestamp": 1665439200,
+			"date": "2022-10-11T00:00:00+00:00",
+			"timestamp": 1665446400,
 			"periods": {
-				"first": 1665439200,
-				"second": 1665442800
+				"first": 1665446400,
+				"second": null
 			},
 			"venue": {
-				"id": 1974,
-				"name": "Estadio Ricardo Gregor",
-				"city": "Luque"
+				"id": 114,
+				"name": "Estadio Unión de Sunchales",
+				"city": "Sunchales, Provincia de Santa Fe"
 			},
 			"status": {
-				"long": "Second Half",
-				"short": "2H",
-				"elapsed": 52
+				"long": "Halftime",
+				"short": "HT",
+				"elapsed": 45
 			}
 		},
 		"league": {
-			"id": 251,
-			"name": "Division Intermedia",
-			"country": "Paraguay",
-			"logo": "https://media.api-sports.io/football/leagues/251.png",
-			"flag": "https://media.api-sports.io/flags/py.svg",
+			"id": 134,
+			"name": "Torneo Federal A",
+			"country": "Argentina",
+			"logo": "https://media.api-sports.io/football/leagues/134.png",
+			"flag": "https://media.api-sports.io/flags/ar.svg",
 			"season": 2022,
-			"round": "Regular Season - 30"
+			"round": "Group B - 33"
 		},
 		"teams": {
 			"home": {
-				"id": 1186,
-				"name": "Independiente F.b.c.",
-				"logo": "https://media.api-sports.io/football/teams/1186.png",
-				"winner": null
+				"id": 1934,
+				"name": "Union Sunchales",
+				"logo": "https://media.api-sports.io/football/teams/1934.png",
+				"winner": true
 			},
 			"away": {
-				"id": 18311,
-				"name": "Pastoreo",
-				"logo": "https://media.api-sports.io/football/teams/18311.png",
-				"winner": null
+				"id": 1957,
+				"name": "Racing Cordoba",
+				"logo": "https://media.api-sports.io/football/teams/1957.png",
+				"winner": false
 			}
 		},
 		"goals": {
 			"home": 1,
-			"away": 1
+			"away": 0
 		},
 		"score": {
 			"halftime": {
 				"home": 1,
+				"away": 0
+			},
+			"fulltime": {
+				"home": null,
+				"away": null
+			},
+			"extratime": {
+				"home": null,
+				"away": null
+			},
+			"penalty": {
+				"home": null,
+				"away": null
+			}
+		},
+		"events": [
+			{
+				"time": {
+					"elapsed": 37,
+					"extra": null
+				},
+				"team": {
+					"id": 1934,
+					"name": "Union Sunchales",
+					"logo": "https://media.api-sports.io/football/teams/1934.png"
+				},
+				"player": {
+					"id": 6289,
+					"name": "D. Stracqualursi"
+				},
+				"assist": {
+					"id": null,
+					"name": null
+				},
+				"type": "Goal",
+				"detail": "Normal Goal",
+				"comments": null
+			}
+		]
+	},
+	{
+		"fixture": {
+			"id": 962438,
+			"referee": "Á. Campos",
+			"timezone": "UTC",
+			"date": "2022-10-11T00:00:00+00:00",
+			"timestamp": 1665446400,
+			"periods": {
+				"first": 1665446400,
+				"second": null
+			},
+			"venue": {
+				"id": 2655,
+				"name": "Estadio Olímpico Patria",
+				"city": "Sucre"
+			},
+			"status": {
+				"long": "Halftime",
+				"short": "HT",
+				"elapsed": 45
+			}
+		},
+		"league": {
+			"id": 344,
+			"name": "Primera División",
+			"country": "Bolivia",
+			"logo": "https://media.api-sports.io/football/leagues/344.png",
+			"flag": "https://media.api-sports.io/flags/bo.svg",
+			"season": 2022,
+			"round": "Clausura - 21"
+		},
+		"teams": {
+			"home": {
+				"id": 15702,
+				"name": "Independiente Petrolero",
+				"logo": "https://media.api-sports.io/football/teams/15702.png",
+				"winner": false
+			},
+			"away": {
+				"id": 3637,
+				"name": "Aurora",
+				"logo": "https://media.api-sports.io/football/teams/3637.png",
+				"winner": true
+			}
+		},
+		"goals": {
+			"home": 0,
+			"away": 1
+		},
+		"score": {
+			"halftime": {
+				"home": 0,
 				"away": 1
 			},
 			"fulltime": {
@@ -835,160 +660,24 @@
 		"events": [
 			{
 				"time": {
-					"elapsed": 1,
+					"elapsed": 3,
 					"extra": null
 				},
 				"team": {
-					"id": 1186,
-					"name": "Independiente F.b.c.",
-					"logo": "https://media.api-sports.io/football/teams/1186.png"
+					"id": 15702,
+					"name": "Independiente Petrolero",
+					"logo": "https://media.api-sports.io/football/teams/15702.png"
 				},
 				"player": {
-					"id": 12402,
-					"name": "O. Leguizamon"
+					"id": 75922,
+					"name": "R. Ramirez"
 				},
 				"assist": {
 					"id": null,
 					"name": null
 				},
-				"type": "Goal",
-				"detail": "Normal Goal",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 41,
-					"extra": null
-				},
-				"team": {
-					"id": 18311,
-					"name": "Pastoreo",
-					"logo": "https://media.api-sports.io/football/teams/18311.png"
-				},
-				"player": {
-					"id": 58241,
-					"name": "M. Gauto"
-				},
-				"assist": {
-					"id": null,
-					"name": null
-				},
-				"type": "Goal",
-				"detail": "Normal Goal",
-				"comments": null
-			}
-		]
-	},
-	{
-		"fixture": {
-			"id": 863500,
-			"referee": "Fernando Espinoza, Argentina",
-			"timezone": "UTC",
-			"date": "2022-10-10T22:00:00+00:00",
-			"timestamp": 1665439200,
-			"periods": {
-				"first": 1665439200,
-				"second": 1665442800
-			},
-			"venue": {
-				"id": null,
-				"name": "Estadio Ciudad de La Plata",
-				"city": "La Plata"
-			},
-			"status": {
-				"long": "Second Half",
-				"short": "2H",
-				"elapsed": 52
-			}
-		},
-		"league": {
-			"id": 128,
-			"name": "Liga Profesional Argentina",
-			"country": "Argentina",
-			"logo": "https://media.api-sports.io/football/leagues/128.png",
-			"flag": "https://media.api-sports.io/flags/ar.svg",
-			"season": 2022,
-			"round": "2nd Phase - 24"
-		},
-		"teams": {
-			"home": {
-				"id": 450,
-				"name": "Estudiantes L.P.",
-				"logo": "https://media.api-sports.io/football/teams/450.png",
-				"winner": true
-			},
-			"away": {
-				"id": 446,
-				"name": "Lanus",
-				"logo": "https://media.api-sports.io/football/teams/446.png",
-				"winner": false
-			}
-		},
-		"goals": {
-			"home": 2,
-			"away": 0
-		},
-		"score": {
-			"halftime": {
-				"home": 2,
-				"away": 0
-			},
-			"fulltime": {
-				"home": null,
-				"away": null
-			},
-			"extratime": {
-				"home": null,
-				"away": null
-			},
-			"penalty": {
-				"home": null,
-				"away": null
-			}
-		},
-		"events": [
-			{
-				"time": {
-					"elapsed": 11,
-					"extra": null
-				},
-				"team": {
-					"id": 450,
-					"name": "Estudiantes L.P.",
-					"logo": "https://media.api-sports.io/football/teams/450.png"
-				},
-				"player": {
-					"id": 6228,
-					"name": "L. Godoy"
-				},
-				"assist": {
-					"id": null,
-					"name": null
-				},
-				"type": "Card",
-				"detail": "Yellow Card",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 22,
-					"extra": null
-				},
-				"team": {
-					"id": 450,
-					"name": "Estudiantes L.P.",
-					"logo": "https://media.api-sports.io/football/teams/450.png"
-				},
-				"player": {
-					"id": 6038,
-					"name": "L. Diaz"
-				},
-				"assist": {
-					"id": null,
-					"name": null
-				},
-				"type": "Goal",
-				"detail": "Normal Goal",
+				"type": "Var",
+				"detail": "Goal Disallowed - offside",
 				"comments": null
 			},
 			{
@@ -997,281 +686,101 @@
 					"extra": null
 				},
 				"team": {
-					"id": 450,
-					"name": "Estudiantes L.P.",
-					"logo": "https://media.api-sports.io/football/teams/450.png"
+					"id": 3637,
+					"name": "Aurora",
+					"logo": "https://media.api-sports.io/football/teams/3637.png"
 				},
 				"player": {
-					"id": 6038,
-					"name": "L. Diaz"
-				},
-				"assist": {
-					"id": null,
-					"name": null
-				},
-				"type": "Card",
-				"detail": "Yellow Card",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 35,
-					"extra": null
-				},
-				"team": {
-					"id": 446,
-					"name": "Lanus",
-					"logo": "https://media.api-sports.io/football/teams/446.png"
-				},
-				"player": {
-					"id": 129903,
-					"name": "F. Perez"
-				},
-				"assist": {
-					"id": null,
-					"name": null
-				},
-				"type": "Card",
-				"detail": "Yellow Card",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 40,
-					"extra": null
-				},
-				"team": {
-					"id": 450,
-					"name": "Estudiantes L.P.",
-					"logo": "https://media.api-sports.io/football/teams/450.png"
-				},
-				"player": {
-					"id": 6038,
-					"name": "L. Diaz"
-				},
-				"assist": {
-					"id": 6407,
-					"name": "M. Castro"
-				},
-				"type": "Goal",
-				"detail": "Normal Goal",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 41,
-					"extra": null
-				},
-				"team": {
-					"id": 450,
-					"name": "Estudiantes L.P.",
-					"logo": "https://media.api-sports.io/football/teams/450.png"
-				},
-				"player": {
-					"id": 119485,
-					"name": "B. Rollheiser"
-				},
-				"assist": {
-					"id": null,
-					"name": null
-				},
-				"type": "Card",
-				"detail": "Yellow Card",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 45,
-					"extra": 1
-				},
-				"team": {
-					"id": 450,
-					"name": "Estudiantes L.P.",
-					"logo": "https://media.api-sports.io/football/teams/450.png"
-				},
-				"player": {
-					"id": 70595,
-					"name": "J. Morel"
-				},
-				"assist": {
-					"id": null,
-					"name": null
-				},
-				"type": "Card",
-				"detail": "Yellow Card",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 46,
-					"extra": null
-				},
-				"team": {
-					"id": 446,
-					"name": "Lanus",
-					"logo": "https://media.api-sports.io/football/teams/446.png"
-				},
-				"player": {
-					"id": 6219,
-					"name": "J. Sand"
-				},
-				"assist": {
-					"id": 129903,
-					"name": "F. Perez"
-				},
-				"type": "subst",
-				"detail": "Substitution 1",
-				"comments": null
-			},
-			{
-				"time": {
-					"elapsed": 46,
-					"extra": null
-				},
-				"team": {
-					"id": 446,
-					"name": "Lanus",
-					"logo": "https://media.api-sports.io/football/teams/446.png"
-				},
-				"player": {
-					"id": 237210,
-					"name": "F. Orozco"
-				},
-				"assist": {
-					"id": 6131,
-					"name": "F. Troyansky"
-				},
-				"type": "subst",
-				"detail": "Substitution 2",
-				"comments": null
-			}
-		]
-	},
-	{
-		"fixture": {
-			"id": 863503,
-			"referee": "Facundo Tello, Argentina",
-			"timezone": "UTC",
-			"date": "2022-10-10T22:00:00+00:00",
-			"timestamp": 1665439200,
-			"periods": {
-				"first": 1665439200,
-				"second": 1665442800
-			},
-			"venue": {
-				"id": 99,
-				"name": "Estadio Presidente Juan Domingo Perón",
-				"city": "Avellaneda, Provincia de Buenos Aires"
-			},
-			"status": {
-				"long": "Second Half",
-				"short": "2H",
-				"elapsed": 48
-			}
-		},
-		"league": {
-			"id": 128,
-			"name": "Liga Profesional Argentina",
-			"country": "Argentina",
-			"logo": "https://media.api-sports.io/football/leagues/128.png",
-			"flag": "https://media.api-sports.io/flags/ar.svg",
-			"season": 2022,
-			"round": "2nd Phase - 24"
-		},
-		"teams": {
-			"home": {
-				"id": 436,
-				"name": "Racing Club",
-				"logo": "https://media.api-sports.io/football/teams/436.png",
-				"winner": true
-			},
-			"away": {
-				"id": 455,
-				"name": "Atletico Tucuman",
-				"logo": "https://media.api-sports.io/football/teams/455.png",
-				"winner": false
-			}
-		},
-		"goals": {
-			"home": 2,
-			"away": 0
-		},
-		"score": {
-			"halftime": {
-				"home": 2,
-				"away": 0
-			},
-			"fulltime": {
-				"home": null,
-				"away": null
-			},
-			"extratime": {
-				"home": null,
-				"away": null
-			},
-			"penalty": {
-				"home": null,
-				"away": null
-			}
-		},
-		"events": [
-			{
-				"time": {
-					"elapsed": 6,
-					"extra": null
-				},
-				"team": {
-					"id": 436,
-					"name": "Racing Club",
-					"logo": "https://media.api-sports.io/football/teams/436.png"
-				},
-				"player": {
-					"id": 5635,
-					"name": "E. Copetti"
+					"id": 59170,
+					"name": "O. Blanco"
 				},
 				"assist": {
 					"id": null,
 					"name": null
 				},
 				"type": "Goal",
-				"detail": "Normal Goal",
+				"detail": "Penalty",
 				"comments": null
 			},
 			{
 				"time": {
-					"elapsed": 44,
+					"elapsed": 39,
 					"extra": null
 				},
 				"team": {
-					"id": 436,
-					"name": "Racing Club",
-					"logo": "https://media.api-sports.io/football/teams/436.png"
+					"id": 15702,
+					"name": "Independiente Petrolero",
+					"logo": "https://media.api-sports.io/football/teams/15702.png"
 				},
 				"player": {
-					"id": 2554,
-					"name": "E. Mena"
+					"id": 65602,
+					"name": "A. Bejarano"
 				},
 				"assist": {
-					"id": 5635,
-					"name": "E. Copetti"
+					"id": null,
+					"name": null
 				},
-				"type": "Goal",
-				"detail": "Normal Goal",
+				"type": "Card",
+				"detail": "Yellow Card",
 				"comments": null
 			},
 			{
 				"time": {
-					"elapsed": 47,
+					"elapsed": 39,
 					"extra": null
 				},
 				"team": {
-					"id": 436,
-					"name": "Racing Club",
-					"logo": "https://media.api-sports.io/football/teams/436.png"
+					"id": 15702,
+					"name": "Independiente Petrolero",
+					"logo": "https://media.api-sports.io/football/teams/15702.png"
 				},
 				"player": {
-					"id": 5635,
-					"name": "E. Copetti"
+					"id": 65784,
+					"name": "V. Melgar"
+				},
+				"assist": {
+					"id": null,
+					"name": null
+				},
+				"type": "Card",
+				"detail": "Yellow Card",
+				"comments": null
+			},
+			{
+				"time": {
+					"elapsed": 39,
+					"extra": null
+				},
+				"team": {
+					"id": 3637,
+					"name": "Aurora",
+					"logo": "https://media.api-sports.io/football/teams/3637.png"
+				},
+				"player": {
+					"id": 59170,
+					"name": "O. Blanco"
+				},
+				"assist": {
+					"id": null,
+					"name": null
+				},
+				"type": "Card",
+				"detail": "Yellow Card",
+				"comments": null
+			},
+			{
+				"time": {
+					"elapsed": 39,
+					"extra": null
+				},
+				"team": {
+					"id": 15702,
+					"name": "Independiente Petrolero",
+					"logo": "https://media.api-sports.io/football/teams/15702.png"
+				},
+				"player": {
+					"id": 307038,
+					"name": "M. Chiatti"
 				},
 				"assist": {
 					"id": null,
