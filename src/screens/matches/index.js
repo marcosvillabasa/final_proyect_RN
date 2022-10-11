@@ -5,7 +5,6 @@ import { selectMatch } from '../../store/actions'
 
 export default MatchesScreen = ({ navigation }) => {
 	const matches = useSelector((state) => state.matches.matches)
-	const dispatch = useDispatch()
 
 	const renderItem = ({ item }) => <Match item={item} onSelectFav={selectMatch}/>
 
