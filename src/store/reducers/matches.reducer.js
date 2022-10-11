@@ -7,7 +7,7 @@ const initialState = {
 	selected: null,
 }
 
-const { ADD_MATCH_FAV } = matchTypes
+const { ADD_MATCH_FAV, REMOVE_MATCH_FAV } = matchTypes
 
 const matchesReducer = (state = initialState, action) => {
 	switch (action.type) {
@@ -32,6 +32,14 @@ const matchesReducer = (state = initialState, action) => {
 				...state,
 				matchesFav: aux,
 			}
+		case REMOVE_MATCH_FAV:
+			return {
+				...state,
+				matchesFav: state.matchesFav.filter(
+					(match) => match.fixture.id !== payload.id
+				),
+			}
+
 		default:
 			return state
 	}
