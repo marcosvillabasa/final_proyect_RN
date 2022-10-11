@@ -4,7 +4,7 @@ import { Ionicons } from '@expo/vector-icons'
 import { MaterialIcons } from '@expo/vector-icons'
 import { colors } from '../constants/colors'
 import MatchesNavigator from './matchesStack'
-import LiveMatchesStack from './liveMatchesStack'
+import FavMatchesStack from './favMatchesStack'
 
 const BottomTab = createBottomTabNavigator()
 
@@ -34,10 +34,10 @@ const Tabs = () => {
 				}}
 			/>
 			<BottomTab.Screen
-				name='LiveMatchesTab'
-				component={LiveMatchesStack}
+				name='FavMatchesTab'
+				component={FavMatchesStack}
 				options={{
-					title: 'Live Matches',
+					title: 'Fav Matches',
 					tabBarIcon: ({ focused }) => (
 						<Ionicons
 							name={focused ? 'checkmark-circle' : 'checkmark-circle-outline'}

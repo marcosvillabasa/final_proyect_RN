@@ -1,12 +1,12 @@
 import { createNativeStackNavigator } from '@react-navigation/native-stack'
-import { LiveMatchesScreen } from '../screens'
+import { FavMatchesScreen } from '../screens'
 
 const Stack = createNativeStackNavigator()
 
-export default LiveMatchesStack = () => {
+export default FavMatchesStack = () => {
 	return (
 		<Stack.Navigator initialRouteName='Matches'>
-			<Stack.Screen name='LiveMatches' component={LiveMatchesScreen} />
+			<Stack.Screen name='FavMatches' component={FavMatchesScreen} />
 		</Stack.Navigator>
 	)
 }
