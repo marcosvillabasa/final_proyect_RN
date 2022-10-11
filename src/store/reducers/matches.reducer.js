@@ -36,7 +36,7 @@ const matchesReducer = (state = initialState, action) => {
 			return {
 				...state,
 				matchesFav: state.matchesFav.filter(
-					(match) => match.fixture.id !== payload.id
+					(match) => match.fixture.id !== action.payload
 				),
 			}
 
